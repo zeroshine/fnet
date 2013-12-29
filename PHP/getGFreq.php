@@ -13,9 +13,9 @@
     $result=mysql_query($query);
     $data= array();
     //echo mysql_num_rows($result)."\n";
-    //echo "\n";
-    for($i=0;$i<$_POST['range'];$i++){
-      $fetch = mysql_fetch_array($result);
-      array_push($data, $fetch[$_POST['type']]);  
+    //echo $query;
+    while($fetch = mysql_fetch_array($result)){
+      array_push($data, array($fetch['time'] => $fetch[$_POST['type']]));  
     }
     echo json_encode($data);
+?>

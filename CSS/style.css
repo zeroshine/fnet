@@ -22,19 +22,7 @@
     position:absolute;
 
 }
-#container2{
-    width: 65%;
-    height: 40%;
-    top: 50%;
-    left: 30%;
-    float: left;
-    margin: 20px;
-    position:absolute;
-    border-style:solid;
-    border-color: red;
-    border-radius: 10pt;
 
-}
 #footer{
     top:95%;
     position: absolute;

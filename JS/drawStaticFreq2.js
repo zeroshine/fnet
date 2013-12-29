@@ -15,7 +15,7 @@ var initialSeries2 = function(f,t,r){
         });
     }*/
     $.ajax({                                        
-        url: 'getGFreq.php',
+        url: './PHP/getGFreq.php',
         async: false,
         type:"POST",
         data:{ctime : time2,range : r, type:t,FDR:f },
