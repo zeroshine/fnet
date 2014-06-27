@@ -23,6 +23,8 @@
     $array_946 = mysql_fetch_array($result_946);
     $result_890 = mysql_query("SELECT * FROM FDR890 WHERE time = ".$_POST["ctime"]);
     $array_890 = mysql_fetch_array($result_890);
+    $result_884 = mysql_query("SELECT * FROM FDR884 WHERE time = ".$_POST["ctime"]);
+    $array_884 = mysql_fetch_array($result_884);
     $total= array(
                   'f_867' => $array_867['freq'], 
                   'v_867' => $array_867['voltage'],
@@ -51,6 +53,10 @@
                   'f_890' => $array_890['freq'], 
                   'v_890' => $array_890['voltage'],
                   'a_890' => $array_890['angle'],
+                  
+                  'f_884' => $array_884['freq'], 
+                  'v_884' => $array_884['voltage'],
+                  'a_884' => $array_884['angle'],
     );
     echo json_encode($total);
 

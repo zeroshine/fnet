@@ -14,9 +14,11 @@
   <script type="text/javascript" src="JS/theme.js"></script>
   <style>
     #bar{
+      position: absolute;
+      top:0%;
+      left:0%;
+      width:100%;
       list-style-type:none;
-      margin:0;
-      padding:0;
       background-color:#99cc66;
     }
     .bar_element{
@@ -38,6 +40,8 @@
   <p class="bar_element">To:</p>
   <input type="text"  class="bar_element" id="datepicker2">
   <input type="submit"  class="bar_element" id="button1" value="submit">
+  <input type="submit" class ="bar_element" id="button2" value="Download freq">
+  <input type="submit" class ="bar_element" id="button3" value="Download phasor">
 </div>
 <div id="container"></div>
 <div id="status"></div>

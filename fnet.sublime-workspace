@@ -4,6 +4,42 @@
 		"selected_items":
 		[
 			[
+				"se",
+				"search_flag"
+			],
+			[
+				"set",
+				"setChart"
+			],
+			[
+				"sea",
+				"search_flag"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"dat",
+				"datepicker2"
+			],
+			[
+				"da",
+				"datepicker1"
+			],
+			[
+				"f",
+				"fetch"
+			],
+			[
+				"data",
+				"datatype"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
 				"be",
 				"begin"
 			],
@@ -56,16 +92,8 @@
 				"req"
 			],
 			[
-				"arr",
-				"array	$… = array (…)"
-			],
-			[
 				"array_p",
 				"array_push"
-			],
-			[
-				"da",
-				"data_type"
 			],
 			[
 				"dta",
@@ -94,10 +122,6 @@
 			[
 				"fe",
 				"fetch1"
-			],
-			[
-				"data",
-				"data1"
 			],
 			[
 				"date_tim",
@@ -238,10 +262,6 @@
 			[
 				"l",
 				"lrCostFunction"
-			],
-			[
-				"f",
-				"fmincg"
 			],
 			[
 				"tmp",
@@ -420,34 +440,18 @@
 	"buffers":
 	[
 		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 3890,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "JS/Ajax.js",
 			"settings":
 			{
-				"buffer_size": 3774,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "JS/drawfreq.js",
-			"settings":
-			{
-				"buffer_size": 5374,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "PHP/getGFreq.php",
-			"settings":
-			{
-				"buffer_size": 777,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "post.py",
-			"settings":
-			{
-				"buffer_size": 332,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -460,11 +464,35 @@
 			}
 		},
 		{
-			"file": "line.html",
+			"file": "JS/drawmap.js",
 			"settings":
 			{
-				"buffer_size": 1536,
+				"buffer_size": 4028,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "PHP/getGFreq.php",
+			"settings":
+			{
+				"buffer_size": 777,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CSS/style.css",
+			"settings":
+			{
+				"buffer_size": 791,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "JS/drawfreq.js",
+			"settings":
+			{
+				"buffer_size": 6299,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -474,6 +502,10 @@
 		"height": 392.0,
 		"selected_items":
 		[
+			[
+				":w",
+				":w - Save"
+			],
 			[
 				"",
 				"Package Control: Install Package"
@@ -505,10 +537,6 @@
 			[
 				"SF",
 				"SFTP: Add Alternate Remote Mapping…"
-			],
-			[
-				":w",
-				":w - Save"
 			],
 			[
 				"bro",
@@ -595,7 +623,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 449.0
+		"width": 521.0
 	},
 	"console":
 	{
@@ -612,25 +640,29 @@
 	},
 	"file_history":
 	[
-		"/Users/zeroshine/Dropbox/fnet/JS/Ajax.js",
-		"/Users/zeroshine/Dropbox/fnet/PHP/post.py",
-		"/Users/zeroshine/Dropbox/fnet/index.php",
-		"/Users/zeroshine/Dropbox/fnet/JS/theme.js",
-		"/Users/zeroshine/Dropbox/fnet/PHP/getGFreq.php",
-		"/Users/zeroshine/Dropbox/fnet/PHP/getFTFreq.php",
 		"/Users/zeroshine/Dropbox/fnet/line.html",
-		"/Users/zeroshine/Dropbox/fnet/JS/drawfreq.js",
-		"/Users/zeroshine/Dropbox/fnet/getData.php",
-		"/Users/zeroshine/Dropbox/fnet/CSS/style.css",
-		"/Users/zeroshine/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/Users/zeroshine/Dropbox/fnet/PHP/getfreq.php",
+		"/Users/zeroshine/Dropbox/fnet/JS/drawfreq.js",
+		"/Users/zeroshine/Dropbox/fnet/PHP/getFTFreq.php",
+		"/Users/zeroshine/Dropbox/fnet/CSS/style.css",
+		"/Users/zeroshine/Dropbox/fnet/JS/theme.js",
+		"/Users/zeroshine/Dropbox/fnet/index.php",
+		"/Users/zeroshine/Dropbox/fnet/JS/Ajax.js",
+		"/Users/zeroshine/Dropbox/fnet/JS/drawmap.js",
+		"/Users/zeroshine/Dropbox/fnet/JS/drawStaticFreq.js",
+		"/Users/zeroshine/Dropbox/fnet/PHP/downloadCSV.php",
+		"/Users/zeroshine/Dropbox/fnet/post.py",
 		"/Users/zeroshine/Dropbox/fnet/PHP/getData.php",
+		"/Users/zeroshine/Desktop/b02901000/p6_1.cpp",
+		"/Users/zeroshine/Dropbox/fnet/PHP/getGFreq.php",
+		"/Users/zeroshine/Dropbox/fnet/PHP/post.py",
+		"/Users/zeroshine/Dropbox/fnet/getData.php",
+		"/Users/zeroshine/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/Users/zeroshine/Dropbox/fnet/PHP/test.php",
 		"/Users/zeroshine/Documents/test.csv",
 		"/Users/zeroshine/Dropbox/fnet/test.html",
 		"/Users/zeroshine/Dropbox/test.tex",
 		"/Users/zeroshine/Dropbox/fnet/JS/drawstock.js",
-		"/Users/zeroshine/Dropbox/fnet/JS/drawStaticFreq.js",
 		"/Users/zeroshine/Downloads/p1.py",
 		"/Users/zeroshine/Downloads/test.in",
 		"/Users/zeroshine/Dropbox/fnet/demo.html",
@@ -735,11 +767,7 @@
 		"/Users/zeroshine/src/rawdata.txt",
 		"/Users/zeroshine/Dropbox/src/features_all.csv",
 		"/Users/zeroshine/Desktop/未命名檔案夾/p2.cpp",
-		"/Users/zeroshine/Dropbox/cpp/programming_assignment3/p1.cpp",
-		"/Users/zeroshine/Dropbox/wams/connect.h",
-		"/Users/zeroshine/Dropbox/data mining/AssoMoreSep182012.pdf",
-		"/Users/zeroshine/Dropbox/data mining/OverviewNAssoSep112012C1.pdf",
-		"/Users/zeroshine/Library/Application Support/Sublime Text 2/Packages/CTags/CTags.sublime-settings"
+		"/Users/zeroshine/Dropbox/cpp/programming_assignment3/p1.cpp"
 	],
 	"find":
 	{
@@ -757,6 +785,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"phasor",
 			"para",
 			"/para",
 			"prompt",
@@ -800,7 +829,7 @@
 			"\n"
 		],
 		"highlight": true,
-		"in_selection": false,
+		"in_selection": true,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
@@ -815,27 +844,154 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 5,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "JS/Ajax.js",
+					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 3774,
+						"buffer_size": 3890,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1947,
-								1947
+								0,
+								0
 							]
 						],
 						"settings":
 						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 26.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "JS/Ajax.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
@@ -850,54 +1006,71 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "JS/drawfreq.js",
-					"settings":
-					{
-						"buffer_size": 5374,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								979,
-								979
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 672.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 2,
-					"file": "PHP/getGFreq.php",
+					"file": "PHP/getFTFreq.php",
 					"settings":
 					{
-						"buffer_size": 777,
+						"buffer_size": 756,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								615,
-								615
+								580,
+								580
 							]
 						],
 						"settings":
 						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
@@ -913,26 +1086,76 @@
 				},
 				{
 					"buffer": 3,
-					"file": "post.py",
+					"file": "JS/drawmap.js",
 					"settings":
 					{
-						"buffer_size": 332,
+						"buffer_size": 4028,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								96,
-								96
+								0,
+								0
 							]
 						],
 						"settings":
 						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -942,22 +1165,70 @@
 				},
 				{
 					"buffer": 4,
-					"file": "PHP/getFTFreq.php",
+					"file": "PHP/getGFreq.php",
 					"settings":
 					{
-						"buffer_size": 756,
+						"buffer_size": 777,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								598,
-								723
+								551,
+								551
 							]
 						],
 						"settings":
 						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
@@ -973,10 +1244,89 @@
 				},
 				{
 					"buffer": 5,
-					"file": "line.html",
+					"file": "CSS/style.css",
 					"settings":
 					{
-						"buffer_size": 1536,
+						"buffer_size": 791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								679,
+								679
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "JS/drawfreq.js",
+					"settings":
+					{
+						"buffer_size": 6299,
 						"regions":
 						{
 						},
@@ -989,15 +1339,63 @@
 						],
 						"settings":
 						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 111.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1044,6 +1442,10 @@
 	{
 		"height": 136.0
 	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
 	"output.git":
 	{
 		"height": 136.0
@@ -1084,7 +1486,7 @@
 		[
 			[
 				"",
-				"/Users/zeroshine/Dropbox/fnet/fnet.sublime-project"
+				"~/Dropbox/latex_thesis/thesis.sublime-project"
 			]
 		],
 		"width": 380.0
